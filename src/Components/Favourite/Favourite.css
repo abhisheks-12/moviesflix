@@ -1,0 +1,11 @@
+.genre_list {
+  padding: 2rem 1rem;
+}
+
+.movie_table {
+  padding: 3rem 1rem 1rem 3rem;
+}
+
+.arrow_poinetr {
+  cursor: pointer;
+}

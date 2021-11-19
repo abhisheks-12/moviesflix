@@ -1,0 +1,31 @@
+.card_wrapper {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card_margin {
+  margin: 10px;
+}
+.movie_img {
+  position: relative;
+  border-radius: 2px;
+}
+
+.title {
+  margin: 15px 0;
+}
+
+.movie_title {
+  position: absolute;
+  top: 10%;
+  width: 65%;
+  left: 3%;
+  color: white;
+  font-weight: 750;
+}
+
+.movie_btn {
+  position: absolute;
+  bottom: 16%;
+}
